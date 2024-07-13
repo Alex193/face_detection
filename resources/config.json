@@ -1,0 +1,26 @@
+{
+  "path_to_basler_pfs_config_file": "./resources/config_basler.pfs",
+  "video_source_main_camera": 0,
+  "video_source_second_camera": 1,
+  "face_detection":
+  {
+    "model_path": "./resources/best.pt",
+    "model_conf": 0.7,
+    "names": {
+        "0": "лицо"
+    },
+    "yolo_imgsize": 640
+  },
+  "colors":
+  {
+      "red": [0, 0, 255],
+      "green": [0, 255, 0],
+      "blue": [255, 0, 0],
+      "yellow": [0, 255, 255],
+      "gray": [104, 104, 104],
+      "black": [0, 0, 0],
+      "white": [255, 255, 255]
+  },
+  "stream_from_camera_width": 640,
+  "stream_from_camera_height": 480
+}
