@@ -8,6 +8,7 @@ Real-time face detection with YOLOv8
 
 ## Структура проекта
 
+```
 face_detection_test_task/
 
 ├── backend/<br>
