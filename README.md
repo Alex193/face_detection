@@ -13,21 +13,21 @@ face_detection_test_task/
 ├── backend/<br>
 │   ├── __init__.py<br>
 │   ├── config_loader.py<br>
-│   ├── image_captor.py
-│   ├── object_detection_models.py
-├── frontend/
-│   ├── __init__.py
-│   ├── image_displayer.py
-├── resources/
-│   ├── config.json
-│   ├── config_basler.pfs
-│   ├── best.pt
-├── venv/
-│   ├── ...
-├── main.py
-├── requirements.txt
-└── .idea/
-    ├── ...
+│   ├── image_captor.py<br>
+│   ├── object_detection_models.py<br>
+├── frontend/<br>
+│   ├── __init__.py<br>
+│   ├── image_displayer.py<br>
+├── resources/<br>
+│   ├── config.json<br>
+│   ├── config_basler.pfs<br>
+│   ├── best.pt<br>
+├── venv/<br>
+│   ├── ...<br>
+├── main.py<br>
+├── requirements.txt<br>
+└── .idea/<br>
+    ├── ...<br>
 ```
 
 ## Установка
