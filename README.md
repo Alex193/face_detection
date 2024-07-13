@@ -9,8 +9,11 @@ Real-time face detection with YOLOv8
 ## Структура проекта
 
 face_detection_test_task/
+
 ├── backend/
+
 │   ├── __init__.py
+
 │   ├── config_loader.py
 │   ├── image_captor.py
 │   ├── object_detection_models.py
